@@ -4,7 +4,7 @@
 Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 Time Complexity : O(n)
-Space Complexity : O(n)
+Space Complexity : O(n) ~ diameter of the tree
 Did this code successfully run on Leetcode : Yes
 Any problem you faced while coding this : No
 
